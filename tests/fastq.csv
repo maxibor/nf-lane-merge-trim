@@ -1,4 +1,4 @@
 library_name,fastq_1,fastq_2
-LIB_A,tests/data/LIB_A_L001_R1.fastq.gz,tests/data/LIB_A_L001_R2.fastq.gz
-LIB_A,tests/data/LIB_A_L002_R1.fastq.gz,tests/data/LIB_A_L002_R2.fastq.gz
-LIB_B,tests/data/LIB_B_L001_R1.fastq.gz,tests/data/LIB_B_L001_R2.fastq.gz
+LIB_A,https://raw.githubusercontent.com/maxibor/nf-lane-merge-trim/refs/heads/master/tests/data/LIB_A_L001_R1.fastq.gz,https://raw.githubusercontent.com/maxibor/nf-lane-merge-trim/refs/heads/master/tests/data/LIB_A_L001_R2.fastq.gz
+LIB_A,https://raw.githubusercontent.com/maxibor/nf-lane-merge-trim/refs/heads/master/tests/data/LIB_A_L002_R1.fastq.gz,https://raw.githubusercontent.com/maxibor/nf-lane-merge-trim/refs/heads/master/tests/data/LIB_A_L002_R2.fastq.gz
+LIB_B,https://raw.githubusercontent.com/maxibor/nf-lane-merge-trim/refs/heads/master/tests/data/LIB_B_L001_R1.fastq.gz,https://raw.githubusercontent.com/maxibor/nf-lane-merge-trim/refs/heads/master/tests/data/LIB_B_L001_R2.fastq.gz
